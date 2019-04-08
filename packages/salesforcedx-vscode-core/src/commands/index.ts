@@ -39,7 +39,7 @@ export { forceLightningAppCreate } from './templates/forceLightningAppCreate';
 export { forceGenerateFauxClassesCreate } from './forceGenerateFauxClasses';
 export {
   forceVisualforceComponentCreate
-} from './forceVisualforceComponentCreate';
+} from './templates/forceVisualforceComponentCreate';
 export {
   forceLightningComponentCreate
 } from './templates/forceLightningComponentCreate';
