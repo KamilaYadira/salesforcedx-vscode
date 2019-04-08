@@ -43,7 +43,9 @@ export {
 export {
   forceLightningComponentCreate
 } from './templates/forceLightningComponentCreate';
-export { forceLightningEventCreate } from './forceLightningEventCreate';
+export {
+  forceLightningEventCreate
+} from './templates/forceLightningEventCreate';
 export { forceLightningInterfaceCreate } from './forceLightningInterfaceCreate';
 export { forceDebuggerStop } from './forceDebuggerStop';
 export { forceConfigList } from './forceConfigList';
