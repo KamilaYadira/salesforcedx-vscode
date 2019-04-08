@@ -40,7 +40,9 @@ export { forceGenerateFauxClassesCreate } from './forceGenerateFauxClasses';
 export {
   forceVisualforceComponentCreate
 } from './forceVisualforceComponentCreate';
-export { forceLightningComponentCreate } from './forceLightningComponentCreate';
+export {
+  forceLightningComponentCreate
+} from './templates/forceLightningComponentCreate';
 export { forceLightningEventCreate } from './forceLightningEventCreate';
 export { forceLightningInterfaceCreate } from './forceLightningInterfaceCreate';
 export { forceDebuggerStop } from './forceDebuggerStop';
